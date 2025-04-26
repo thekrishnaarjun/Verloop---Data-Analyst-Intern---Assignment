@@ -1,4 +1,4 @@
-![Screenshot 2025-04-26 111443](https://github.com/user-attachments/assets/2bef05db-c1eb-4282-bc20-832e2918a6ad)# Chat Metrics Report Generator
+
 
 This project is a Streamlit-based web application that allows users to upload a Data Dump file (in CSV or Excel format) and automatically generates an Excel report containing chat metrics. The metrics are grouped into an Overall summary and a weekly breakdown (for February in this example).
 
@@ -34,10 +34,9 @@ Results are grouped overall and by weekly intervals (e.g., "01 Feb - 07 Feb", "0
 - **Web App Interface:**  
   Built with Streamlit, the app displays the computed metrics and allows users to download the report.
 
-![Screenshot 2025-04-26 111249](https://github.com/user-attachments/assets/8200a8d4-b8d2-4d77-8214-1f56be4f321d)
-![Screenshot 2025-04-26 111443](https://github.com/user-attachments/assets/6169469e-a933-438c-9748-ec5e0e274c0c)
-![Screenshot 2025-04-26 111706](https://github.com/user-attachments/assets/3e037e1e-8d9e-4e20-892b-813dbce256af)
-![Screenshot 2025-04-26 111841](https://github.com/user-attachments/assets/27f358ac-b2af-4406-9e3a-cc9cc8781d6b)
+![Screenshot 2025-04-26 111443](https://github.com/user-attachments/assets/45ccff26-0c69-457b-9b9c-3f4cb78c8439)
+![Screenshot 2025-04-26 111249](https://github.com/user-attachments/assets/2b2155fc-0651-45b7-8da1-1f2ea3b1ee8e)
+
 
 
 
