@@ -37,6 +37,8 @@ Results are grouped overall and by weekly intervals (e.g., "01 Feb - 07 Feb", "0
 
 ![Screenshot 2025-04-26 111249](https://github.com/user-attachments/assets/2b2155fc-0651-45b7-8da1-1f2ea3b1ee8e)
 ![Screenshot 2025-04-26 111443](https://github.com/user-attachments/assets/45ccff26-0c69-457b-9b9c-3f4cb78c8439)
+![Screenshot 2025-04-26 111706](https://github.com/user-attachments/assets/f75cc20d-7033-4632-b3c1-3871a46a18f0)
+![Screenshot 2025-04-26 111841](https://github.com/user-attachments/assets/f2627f39-0100-47de-8eb5-afb98d40ded1)
 
 
 
